@@ -5,7 +5,7 @@ Extracts relationship between web pages and stores extracted directed graph in `
 `.dot` can be visualized in many ways, I prefer [Gephi](https://gephi.org/).
 
 Example of visualization by Gephi:
-![sky@juick.com](juick.com_sky_depth1.png "sky@juick.com")
+![sky@juick.com](http://github.com/ysoldak/social/raw/master/juick.com_sky_depth1.png "sky@juick.com")
 
 Nodes: 874, Edges: 1632
 
